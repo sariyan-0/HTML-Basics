@@ -18,7 +18,8 @@ Perfect for beginners, classrooms, workshops, or just curious minds getting star
 | `ImageIntoLink.html` | Making a clickable image (like a button) |
 | `Sections.html` | Grouping content using `<section>` tags |
 | `TabOpening.html` | Opening links in a new tab with `target="_blank"` |
-
+| `Lists.html` |  Creating a list of items as texts |
+| `UsingCSS.html` |  CSS (Cascading Style Sheets) is the language used to describe how HTML elements should look, such as colors, fonts, sizes, layouts, animations, etc | 
 ---
 
 ## 🚀 How to Use It
